@@ -58,7 +58,28 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|117027693|122453838|ee36b60e-ca55-4890-a059-f542dfc08213|39df7587-b064-41db-b342-99b751571195",
+        "courtyards_overlap|117027693|74193838|4579b0e8-03cb-47ab-80f7-6fc7b2030604|0bfa34b1-a22a-4804-b06f-41bab2500882",
+        "courtyards_overlap|139252693|74193838|e5b7dc57-9691-4db2-8fd9-ce267a9f6fc7|4399644c-c42f-4f1c-89b5-c6d997656181",
+        "courtyards_overlap|139855000|122616140|56d14e68-40f3-4501-97e8-021c60ce6bd1|43014d9e-3947-46d2-91fc-3640d477f318",
+        "silk_edge_clearance|118050000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|5a5838b0-37e0-4971-bbf9-9b9e36d1597c",
+        "silk_edge_clearance|118050000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|65d787de-3821-437c-b93b-ed15fd8c6ad3",
+        "silk_edge_clearance|118050000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|c29c500d-6c9c-4e5b-a68f-e769de723826",
+        "silk_edge_clearance|118050000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|ceafee8a-e097-47d4-a297-aa2599f47e2d",
+        "silk_edge_clearance|120710000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|96abacb9-633f-4323-b36d-86266df78cbd",
+        "silk_edge_clearance|120710000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|96f65bde-69b5-4af1-ad5a-f470e7ba63a1",
+        "silk_edge_clearance|120710000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|a31541b6-12d0-4b77-adef-37eae83929b1",
+        "silk_edge_clearance|120710000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|d18142ee-4e70-44bc-8a11-1b5b2ea41ecc",
+        "silk_edge_clearance|135830000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|11b9f3a9-cf23-4e43-9646-080a5770ddc5",
+        "silk_edge_clearance|135830000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|6b715453-aa05-4c67-a5f1-8f60c1cb9591",
+        "silk_edge_clearance|135830000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|608172c3-20b2-43d5-bcfe-36f194b318ec",
+        "silk_edge_clearance|135830000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|ebf18e82-e177-478b-b6ca-0afd6514007a",
+        "silk_edge_clearance|138490000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|2b079430-a0bb-4d49-a371-ebfa1e112729",
+        "silk_edge_clearance|138490000|124460000|19d9314d-002e-437e-ab5a-302b507126e2|92c9d2b7-1ba6-4eb3-b8d9-e34185112ef7",
+        "silk_edge_clearance|138490000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|0abaaec5-a20a-468a-9eb0-75eb9b8d4e4e",
+        "silk_edge_clearance|138490000|73660000|19d9314d-002e-437e-ab5a-302b507126e2|f57ec815-9f72-4275-a35f-816c77d251d5"
+      ],
       "meta": {
         "version": 2
       },
@@ -116,7 +137,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.127,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.254,
         "min_hole_clearance": 0.25,
@@ -128,7 +149,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.0,
+        "min_track_width": 0.127,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
@@ -453,28 +474,11 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SparkFun_Pico_Header_Swapper.kicad_pro",
+    "filename": "SparkFun_Pico_Add_On_Flipper.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
-      {
-        "bus_width": 12,
-        "clearance": 0.1524,
-        "diff_pair_gap": 0.254,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2032,
-        "line_style": 0,
-        "microvia_diameter": 0.3048,
-        "microvia_drill": 0.1524,
-        "name": "Default",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1524,
-        "via_diameter": 0.56,
-        "via_drill": 0.3,
-        "wire_width": 6
-      },
       {
         "bus_width": 12,
         "clearance": 0.127,
@@ -484,10 +488,10 @@
         "line_style": 0,
         "microvia_diameter": 0.3048,
         "microvia_drill": 0.1524,
-        "name": "5mil",
+        "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
+        "track_width": 0.254,
         "via_diameter": 0.56,
         "via_drill": 0.3,
         "wire_width": 6
