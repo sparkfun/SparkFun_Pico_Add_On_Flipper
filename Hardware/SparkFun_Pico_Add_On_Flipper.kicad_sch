@@ -7391,21 +7391,19 @@
 		(fields_autoplaced yes)
 		(uuid "d6c49d4e-9ec1-418f-a4de-7bdf8571ff4f")
 		(property "Reference" "J1"
-			(at 71.12 60.9599 0)
+			(at 68.58 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x20"
-			(at 71.12 63.4999 0)
+			(at 68.58 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "SparkFun-Connector:1x20_SMD_Pin1RightUp"
