@@ -44,6 +44,4 @@ jobs:
       - name: Setup Docs Email
         run: git config --global user.email "lori.crotser@sparkfun.com"
       - name: Build Docs Website
-        run: mike deploy --push gh-pages
-
-        
+        run: mike deploy main
