@@ -2738,7 +2738,7 @@
 					)
 				)
 			)
-			(property "Value" "SMD_RA_4.5x2.5mm_h3.3mm"
+			(property "Value" "SMD_RA_4.5x3.4mm_h3.3mm"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -6704,7 +6704,7 @@
 				)
 			)
 		)
-		(property "Value" "SMD_RA_5x3mm_h3.6mm"
+		(property "Value" "SMD_RA_4.5x3.4mm_h3.3mm"
 			(at 129.54 144.78 0)
 			(effects
 				(font
