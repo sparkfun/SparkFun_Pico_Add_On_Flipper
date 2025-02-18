@@ -1,9 +1,9 @@
-SparkFun Pico Add On Flipper
+SparkFun Pico Add On Flipper for XRP
 ========================================
 
-[![SparkFun Pico Add On Flipper](URL for picture of part)](URL for product on Sparkfun.com)
+[![SparkFun Pico Add On Flipper for XRP](URL for picture of part)](https://www.sparkfun.com/products/28236)
 
-[*SparkFun Pico Add On Flipper (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun Pico Add On Flipper for XRP(28236)*](https://www.sparkfun.com/products/28236)
 
 <Basic description of the part.>
 
@@ -16,7 +16,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the SparkFun Pico Add On Flipper for XRP.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
 License Information
