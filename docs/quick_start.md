@@ -16,7 +16,8 @@ hide: toc
     </figure></a>
     
 
--    Whether you are working with the PICO or the XRP, sometimes you need an add-on that sits on TOP of the board. Enter the SparkFun Pico Add On Flipper Board. Whereas most of the Pico add-on boards are designed to go on the bottom of a Pico with male headers, the XRP has female headers on top. This board enables users to flip those add-on boards to be on top of the XRP. Should you wish to use the SparkFun Pico Add On Flipper Board in non-XRP applications, we've also included a Qwiic connector and reset button. 
+-    Whether you are working with the PICO or the XRP, the SparkFun Pico Add-On Flipper Board provides flexibility when space is at a premium. Whereas most Pico add-on boards are designed to go on the bottom of a Pico with male headers, the XRP has female headers on top. This board enables users to flip those add-on boards to be on top of the XRP. Should you wish to use the SparkFun Pico Add On Flipper Board in non-XRP applications, we've also included a Qwiic connector and reset button.
+
 
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/28236){ .md-button .md-button--primary }

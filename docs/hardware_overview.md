@@ -42,12 +42,12 @@ A 3D model of the board and components was exported to a STEP file using KiCad.
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 
 <center>
-    <model-viewer src="../assets/3d_model/SparkFun_Pico_Add_On_Flipper.glb" camera-controls poster="../assets/3d_model/SparkFun_Pico_Add_On_Flipper.png" environment-image="legacy" shadow-intensity="1.58" exposure="0.64" shadow-softness="0.24" tone-mapping="neutral" camera-orbit="-46.67deg 57.14deg 153.3m" field-of-view="30deg" style="width: 750px; height: 500px;">
+    <model-viewer src="../assets/3d_model/28236_SparkFun_Pico_Add_On_Flipper.glb" camera-controls poster="../assets/3d_model/SparkFun_Pico_Add_On_Flipper.png" environment-image="legacy" shadow-intensity="1.58" exposure="0.64" shadow-softness="0.24" tone-mapping="neutral" camera-orbit="-46.67deg 57.14deg 153.3m" field-of-view="30deg" style="width: 750px; height: 500px;">
     </model-viewer>
 </center>
 <br />
 <div style="text-align: center">
-    <a href="../assets/3d_model/SparkFun_Pico_Add_On_Flipper.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
+    <a href="../assets/3d_model/28236_SparkFun_Pico_Add_On_Flipper.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
 </div>
 
 
@@ -57,7 +57,7 @@ A 3D model of the board and components was exported to a STEP file using KiCad.
 The board measures 1" x 2". 
 
 <figure markdown>
-[![Board Dimensions are 1" x 2"](../assets/board_files/SparkFun_Pico_Add_On_Flipper_Dimensions.png){ width="50%" }](../assets/board_files/SparkFun_Pico_Add_On_Flipper_Dimensions.png "Click to enlarge")
+[![Board Dimensions are 1" x 2"](../assets/board_files/28236_SparkFun_Pico_Add_On_Flipper_Dimensions.jpg){ width="50%" }](../assets/board_files/28236_SparkFun_Pico_Add_On_Flipper_Dimensions.jpg "Click to enlarge")
 <figcaption markdown>Board Dimensions</figcaption>
 </figure>
 
