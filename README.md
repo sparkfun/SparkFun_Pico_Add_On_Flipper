@@ -17,7 +17,7 @@ Repository Contents
 Documentation
 --------------
 * **[Hookup Guide](https://docs.sparkfun.com/SparkFun_Pico_Add_On_Flipper/)** - Basic hookup guide for the SparkFun Pico Add On Flipper for XRP.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+
 
 License Information
 -------------------
