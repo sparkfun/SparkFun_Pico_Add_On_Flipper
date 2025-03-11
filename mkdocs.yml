@@ -61,6 +61,9 @@ theme:
     # Keeps tabs visible in the header when scrolling
     - navigation.tabs.sticky
 
+    # Expands all the collapsible subsections in the navigation (left) sidebar
+    - navigation.expand
+
     # Adds pop-up button just below the header (when the user starts to scroll up)
     # i.e. Allows users to easily jump to the beginning of the page
     - navigation.top
@@ -73,6 +76,12 @@ theme:
 
     # Highlights all occurrences of a search result when clicked on
     - search.highlight
+
+    # Integrates the table of contents (headers of a page) into the navigation (left) sidebar
+    - toc.integrate
+
+    # The table of contents is automatically scrolled to the active anchor
+    - toc.follow
 
 
   # Adds light/dark theme to the webpage
