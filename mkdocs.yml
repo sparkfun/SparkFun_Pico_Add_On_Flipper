@@ -408,10 +408,14 @@ not_in_nav: |
 
 # Webpage navigation menu
 nav:
-  - Quick Start Guide: quick_start.md
-  - Hardware Overview: hardware_overview.md
-  - Resources: resources.md
-  - Support:
-    - Troubleshooting: troubleshooting.md
-    - Submit Issues: github/file_issue.md
-    - Contribute: github/contribute.md
+  - Hookup Guide:
+    - Introduction: introduction.md
+    - Quick Start Guide: quick_start.md
+    - Hardware:
+      - Hardware Overview: hardware_overview.md
+      - Hardware Assembly: hardware_assembly.md
+    - Resources: resources.md
+    - Support:
+      - Troubleshooting Tips: troubleshooting_tips.md
+      - Submit Issues: github/file_issue.md
+      - Contribute: github/contribute.md
