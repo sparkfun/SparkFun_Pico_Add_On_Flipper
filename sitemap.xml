@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
-         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/hard_copy/</loc>
-         <lastmod>2025-03-06</lastmod>
-    </url>
-    <url>
-         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/hardware_hookup/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/hardware_assembly/</loc>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
          <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/hardware_overview/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <lastmod>2025-03-11</lastmod>
+    </url>
+    <url>
+         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/introduction/</loc>
+         <lastmod>2025-03-11</lastmod>
+    </url>
+    <url>
+         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/print_view/</loc>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
          <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/quick_start/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
          <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/resources/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
-         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/single_page/</loc>
-         <lastmod>2025-03-06</lastmod>
-    </url>
-    <url>
-         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/troubleshooting/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/troubleshooting_tips/</loc>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
          <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/github/contribute/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <lastmod>2025-03-11</lastmod>
     </url>
     <url>
          <loc>https://sparkfun.github.io/SparkFun_Pico_Add_On_Flipper/github/file_issue/</loc>
-         <lastmod>2025-03-06</lastmod>
+         <lastmod>2025-03-11</lastmod>
     </url>
 </urlset>
